@@ -1,24 +1,24 @@
 body {
-font-feature-settings: ;
-font-size: ;
-font-weight: ;
-color:black;
-background-color: ;
+  font-feature-settings: ;
+  font-size: ;
+  font-weight: ;
+  color: black;
+  background-color: ;
 }
 a {
   text-decoration: none;
-  color:currentColor;
-
+  color: currentColor;
 }
 ul,
 ol {
   list-style-type: none;
 }
 
+.header {
+}
 
-.header {}
-
-.header-nav {}
+.header-nav {
+}
 
 .header-logo {
   font-weight: 700px;
@@ -28,16 +28,23 @@ ol {
   font-style: italic;
 }
 
-.header-logo-image {}
+.header-logo-image {
+}
 
-.nav-list {}
+.nav-list {
+}
 
-.nav-items {}
+.nav-items {
+}
 
-.nav-link {}
+.nav-link {
+}
 
-.social-list {}
+.social-list {
+}
 
-.social-item {}
+.social-item {
+}
 
-.facebook-link {}
+.facebook-link {
+}
